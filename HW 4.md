@@ -20,7 +20,7 @@ Use the provided dataset smarket.csv, where the first two columns are indices an
 
    (Alternatively, execute it non-interactively with `jupyter nbconvert --to notebook --execute HW4_Assignment1.ipynb`).
 
-3. From the Notebook menu, choose **Kernel → Restart & Run All** to execute every cell in order. The final cell prints the testing accuracy for the logistic regression model.
+3. From the Notebook menu, choose **Kernel → Restart & Run All** to execute every cell in order. The final cells print the testing accuracies for both logistic-regression assignments and summarize which feature set generalizes better.
 
  
 
